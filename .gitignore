@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# ChromaDB
+backend/chroma_db/
+
+# Audio + transcripts
+backend/audio/
+backend/transcripts/
+
+# Node
+node_modules/
+
+# Next.js
+.next/
+
+# Mac
+.DS_Store
